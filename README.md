@@ -1,9 +1,9 @@
-## Hello! ☺️
+## Welcome 😃
 
 <a href="mailto:thapaayusha16@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/ayushathapa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-I am Ayusha, a third-year Computer Science student at the University of Toronto. I am interested in Machine Learning, NLP, and HCI. My ultimate goal is to work on projects that have meaningful impact.
+Hello! I am Ayusha, a third-year Computer Science student at the University of Toronto. I am interested in Machine Learning, NLP, and HCI. My ultimate goal is to work on projects that have meaningful impact.
 
 In pursuit of this goal, I have taken on the following roles so far:
 
